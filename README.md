@@ -35,7 +35,7 @@ from scipy.stats import pearsonr
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/andrewhayles/health.git](https://github.com/andrewhayles/health.git)
+    git clone https://github.com/andrewhayles/health.git
     ```
 2.  Install packages
 3.  Run the program
@@ -43,6 +43,6 @@ from scipy.stats import pearsonr
 
 ## Contact
 
-Your Name - Andrew Hayles (andyhayles@gmail.com)
+Andrew Hayles (andyhayles@gmail.com)
 
 Project Link: [https://github.com/andrewhayles/health](https://github.com/andrewhayles/health)
